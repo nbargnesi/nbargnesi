@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **nbargnesi/nbargnesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nbargnesi)](https://github.com/nbargnesi/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nbargnesi&margin-w=15)](https://github.com/nbargnesi/github-profile-trophy)
 
